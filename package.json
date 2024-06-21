@@ -1,0 +1,21 @@
+{
+  "name": "jsx-dark",
+  "displayName": "JSX-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "JSX-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/JSX-Dark-color-theme.json"
+      }
+    ]
+  }
+}
